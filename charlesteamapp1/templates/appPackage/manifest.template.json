@@ -44,6 +44,15 @@
             "scopes": [
                 "personal"
             ]
+        },
+        {
+            "entityId": "test1",
+            "name": "Charles Tab",
+            "contentUrl": "https://charleswang.us/",
+            "websiteUrl": "https://charleswang.us/",
+            "scopes": [
+                "personal"
+            ]
         }
     ],
     "permissions": [

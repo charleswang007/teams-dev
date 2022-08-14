@@ -15,3 +15,4 @@
 - local debug (F5)
 
 ![Local Debug](charlesteamapp1_localdebug.png)
+![Local Debug](charlesteamapp1_localdebug_1.png)
