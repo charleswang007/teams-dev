@@ -9,3 +9,9 @@
 ## Documentation
 
 1. [Build apps with the Teams Toolkit and Visual Studio Code](https://docs.microsoft.com/en-us/microsoftteams/platform/toolkit/visual-studio-code-overview)
+
+## Screenshots
+
+- local debug (F5)
+
+![Local Debug](charlesteamapp1_localdebug.png)
