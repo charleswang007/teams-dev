@@ -53,6 +53,15 @@
             "scopes": [
                 "personal"
             ]
+        },
+        {
+            "entityId": "test2",
+            "name": "Hiking Club",
+            "contentUrl": "https://taiwanhiking.org/",
+            "websiteUrl": "https://taiwanhiking.org/",
+            "scopes": [
+                "personal"
+            ]
         }
     ],
     "permissions": [
