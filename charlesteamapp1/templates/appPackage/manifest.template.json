@@ -62,6 +62,15 @@
             "scopes": [
                 "personal"
             ]
+        },
+        {
+            "entityId": "test3",
+            "name": "Unity Project",
+            "contentUrl": "https://simmer.io/@charleswang007/charles-animal-kingdom",
+            "websiteUrl": "https://simmer.io/@charleswang007/charles-animal-kingdom",
+            "scopes": [
+                "personal"
+            ]
         }
     ],
     "permissions": [
