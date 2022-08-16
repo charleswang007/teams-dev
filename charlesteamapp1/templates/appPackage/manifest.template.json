@@ -11,16 +11,16 @@
         "termsOfUseUrl": "{{state.fx-resource-frontend-hosting.endpoint}}{{state.fx-resource-frontend-hosting.indexPath}}/termsofuse"
     },
     "icons": {
-        "color": "resources/color.png",
-        "outline": "resources/outline.png"
+        "color": "resources/unity.png",
+        "outline": "resources/unity-outline.png"
     },
     "name": {
         "short": "{{config.manifest.appName.short}}",
         "full": "{{config.manifest.appName.full}}"
     },
     "description": {
-        "short": "Short description of {{config.manifest.appName.short}}",
-        "full": "Full description of {{config.manifest.appName.short}}"
+        "short": "{{config.manifest.appName.full}}",
+        "full": "{{config.manifest.appName.full}}"
     },
     "accentColor": "#FFFFFF",
     "bots": [],
@@ -47,7 +47,7 @@
         },
         {
             "entityId": "test1",
-            "name": "Charles Tab",
+            "name": "Charles Page",
             "contentUrl": "https://charleswang.us/",
             "websiteUrl": "https://charleswang.us/",
             "scopes": [
@@ -56,16 +56,16 @@
         },
         {
             "entityId": "test2",
-            "name": "Hiking Club",
-            "contentUrl": "https://taiwanhiking.org/",
-            "websiteUrl": "https://taiwanhiking.org/",
+            "name": "Car Racing",
+            "contentUrl": "https://simmer.io/@charleswang007/microsoft-car-racing",
+            "websiteUrl": "https://simmer.io/@charleswang007/microsoft-car-racing",
             "scopes": [
                 "personal"
             ]
         },
         {
             "entityId": "test3",
-            "name": "Unity Project",
+            "name": "Animal kingdom",
             "contentUrl": "https://simmer.io/@charleswang007/charles-animal-kingdom",
             "websiteUrl": "https://simmer.io/@charleswang007/charles-animal-kingdom",
             "scopes": [

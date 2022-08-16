@@ -19,9 +19,9 @@ export function Welcome(props) {
 
   const steps = ["local", "azure", "publish"];
   const friendlyStepsName = {
-    local: "1. Charles Page",
-    azure: "2. Car Racing",
-    publish: "3. Animal Kingdom",
+    local: "1. Build your app locally",
+    azure: "2. Provision and Deploy to the Cloud",
+    publish: "3. Publish to Teams",
   };
   const [selectedMenuItem, setSelectedMenuItem] = useState("local");
   const items = steps.map((step) => {
