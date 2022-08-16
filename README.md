@@ -14,7 +14,7 @@
 
 - local debug (F5)
 
-![Local Debug](unity_teams1.png)
-![Local Debug](unity_teams2.png)
-![Local Debug](unity_teams3.png)
-![Local Debug](unity_teams4.png)
+![Local Debug](images/unity_teams1.png)
+![Local Debug](images/unity_teams2.png)
+![Local Debug](images/unity_teams3.png)
+![Local Debug](images/unity_teams4.png)
