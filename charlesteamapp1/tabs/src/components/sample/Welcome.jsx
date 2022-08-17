@@ -19,7 +19,7 @@ export function Welcome(props) {
 
   const steps = ["local", "azure", "publish"];
   const friendlyStepsName = {
-    local: "1. Charles Page",
+    local: "1. One Piece Shooting",
     azure: "2. Car Racing",
     publish: "3. Animal Kingdom",
   };
@@ -36,7 +36,7 @@ export function Welcome(props) {
     <div className="welcome page">
       <div className="narrow page-padding">
         <Image src="hello.png" />
-        <h1 className="center">Congratulations!</h1>
+        <h1 className="center">Unity on Teams!</h1>
         <p className="center">Your app is running in your {friendlyEnvironmentName}</p>
         <Menu defaultActiveIndex={0} items={items} underlined secondary />
         <div className="sections">

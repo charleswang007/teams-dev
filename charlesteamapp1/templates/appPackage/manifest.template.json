@@ -38,7 +38,7 @@
     "staticTabs": [
         {
             "entityId": "index",
-            "name": "Personal Tab",
+            "name": "My Games",
             "contentUrl": "{{state.fx-resource-frontend-hosting.endpoint}}{{state.fx-resource-frontend-hosting.indexPath}}/tab",
             "websiteUrl": "{{state.fx-resource-frontend-hosting.endpoint}}{{state.fx-resource-frontend-hosting.indexPath}}/tab",
             "scopes": [
@@ -47,9 +47,9 @@
         },
         {
             "entityId": "test1",
-            "name": "Charles Page",
-            "contentUrl": "https://charleswang.us/",
-            "websiteUrl": "https://charleswang.us/",
+            "name": "One Piece Shooting",
+            "contentUrl": "https://charleswang.us/animation/site/onepiece.html",
+            "websiteUrl": "https://charleswang.us/animation/site/onepiece.html",
             "scopes": [
                 "personal"
             ]
