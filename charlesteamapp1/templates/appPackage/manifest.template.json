@@ -20,7 +20,7 @@
     },
     "description": {
         "short": "{{config.manifest.appName.full}}",
-        "full": "{{config.manifest.appName.full}} - Development Mode"
+        "full": "{{config.manifest.appName.full}} - Dev Mode"
     },
     "accentColor": "#FFFFFF",
     "bots": [],
@@ -46,6 +46,15 @@
             ]
         },
         {
+            "entityId": "test0",
+            "name": "Angry Birds",
+            "contentUrl": "https://charleswang.us/bird/index.html",
+            "websiteUrl": "https://charleswang.us/bird/index.html",
+            "scopes": [
+                "personal"
+            ]
+        },
+        {
             "entityId": "test1",
             "name": "One Piece Shooting",
             "contentUrl": "https://charleswang.us/animation/site/onepiece.html",
@@ -57,8 +66,8 @@
         {
             "entityId": "test2",
             "name": "Car Racing",
-            "contentUrl": "https://simmer.io/@charleswang007/microsoft-car-racing",
-            "websiteUrl": "https://simmer.io/@charleswang007/microsoft-car-racing",
+            "contentUrl": "https://simmer.io/@charleswang007/ocean-car-racing",
+            "websiteUrl": "https://simmer.io/@charleswang007/ocean-car-racing",
             "scopes": [
                 "personal"
             ]

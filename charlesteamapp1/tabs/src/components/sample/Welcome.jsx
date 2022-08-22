@@ -17,11 +17,12 @@ export function Welcome(props) {
       azure: "Azure environment",
     }[environment] || "local environment";
 
-  const steps = ["local", "azure", "publish"];
+  const steps = ["test", "local", "azure", "publish"];
   const friendlyStepsName = {
-    local: "1. One Piece Shooting",
-    azure: "2. Car Racing",
-    publish: "3. Animal Kingdom",
+    test: "1. Angry Birds",
+    local: "2. One Piece Shooting",
+    azure: "3. Car Racing",
+    publish: "4. Animal Kingdom",
   };
   const [selectedMenuItem, setSelectedMenuItem] = useState("local");
   const items = steps.map((step) => {
@@ -40,6 +41,12 @@ export function Welcome(props) {
         <p className="center">Your app is running in your {friendlyEnvironmentName}</p>
         <Menu defaultActiveIndex={0} items={items} underlined secondary />
         <div className="sections">
+          {selectedMenuItem === "test" && (
+            <div>
+              <EditCode />
+              <AddSSO />
+            </div>
+          )}
           {selectedMenuItem === "local" && (
             <div>
               <EditCode />
