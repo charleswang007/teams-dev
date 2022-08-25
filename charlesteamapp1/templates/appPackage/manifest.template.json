@@ -20,7 +20,7 @@
     },
     "description": {
         "short": "{{config.manifest.appName.full}}",
-        "full": "{{config.manifest.appName.full}} - Dev Mode"
+        "full": "Project {{config.manifest.appName.short}} - Dev Mode"
     },
     "accentColor": "#FFFFFF",
     "bots": [],
@@ -39,8 +39,8 @@
         {
             "entityId": "index",
             "name": "My Games",
-            "contentUrl": "{{state.fx-resource-frontend-hosting.endpoint}}{{state.fx-resource-frontend-hosting.indexPath}}/tab",
-            "websiteUrl": "{{state.fx-resource-frontend-hosting.endpoint}}{{state.fx-resource-frontend-hosting.indexPath}}/tab",
+            "contentUrl": "https://charleswang.us/games/index.html",
+            "websiteUrl": "https://charleswang.us/games/index.html",
             "scopes": [
                 "personal"
             ]
@@ -74,7 +74,7 @@
         },
         {
             "entityId": "test3",
-            "name": "Animal kingdom",
+            "name": "Animal Kingdom",
             "contentUrl": "https://simmer.io/@charleswang007/charles-animal-kingdom",
             "websiteUrl": "https://simmer.io/@charleswang007/charles-animal-kingdom",
             "scopes": [
