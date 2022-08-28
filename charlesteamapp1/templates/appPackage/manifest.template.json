@@ -47,7 +47,7 @@
         },
         {
             "entityId": "test0",
-            "name": "Angry Birds",
+            "name": "憤努鳥紫禁城之戰",
             "contentUrl": "https://charleswang.us/bird/index.html",
             "websiteUrl": "https://charleswang.us/bird/index.html",
             "scopes": [
@@ -56,7 +56,7 @@
         },
         {
             "entityId": "test1",
-            "name": "One Piece Shooting",
+            "name": "海賊王射擊對決",
             "contentUrl": "https://charleswang.us/animation/site/onepiece.html",
             "websiteUrl": "https://charleswang.us/animation/site/onepiece.html",
             "scopes": [
@@ -65,18 +65,18 @@
         },
         {
             "entityId": "test2",
-            "name": "Car Racing",
-            "contentUrl": "https://simmer.io/@charleswang007/ocean-car-racing",
-            "websiteUrl": "https://simmer.io/@charleswang007/ocean-car-racing",
+            "name": "我在大海裡競逐",
+            "contentUrl": "https://charleswang.us/unity-ocean",
+            "websiteUrl": "https://charleswang.us/unity-ocean",
             "scopes": [
                 "personal"
             ]
         },
         {
             "entityId": "test3",
-            "name": "Animal Kingdom",
-            "contentUrl": "https://simmer.io/@charleswang007/charles-animal-kingdom",
-            "websiteUrl": "https://simmer.io/@charleswang007/charles-animal-kingdom",
+            "name": "奇幻動物王國",
+            "contentUrl": "https://charleswang.us/unity-animal",
+            "websiteUrl": "https://charleswang.us/unity-animal",
             "scopes": [
                 "personal"
             ]
